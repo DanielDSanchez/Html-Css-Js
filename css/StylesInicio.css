@@ -44,3 +44,11 @@ body{
     font-family: fantasy;
     font-size: 2em;
 }
+
+.Footer{
+    margin-top: 14em;
+    height: 60px;
+}
+.f{
+    padding-top: 1em;
+}
